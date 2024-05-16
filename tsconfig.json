@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
     // Files
-    "rootDir": "src", // in
-    "outDir": "dist", // out
+    "rootDir": "src",
+    "outDir": "dist",
     // Syntax
-    "lib": ["ES2022"], // in
-    "target": "ES2022", //out
+    "lib": ["ES2022"],
+    "target": "ES2022",
     // Modules
-    "moduleResolution": "Node16", // in
-    "module": "NodeNext", // out
+    "moduleResolution": "Node16",
+    "module": "NodeNext",
     // Type Checking Behaviour
     "strict": true
   }
