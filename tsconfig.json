@@ -1,9 +1,15 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
-    "outDir": "dist",
-    "types": ["vitest/globals"]
-  },
-  "include": ["src/**/*", "vitest.config.ts"],
-  "extends": "@tstv/tsconfig-common/tsconfig.json"
+    // Files
+    "rootDir": "src", // in
+    "outDir": "dist", // out
+    // Syntax
+    "lib": ["ES2022"], // in
+    "target": "ES2022", //out
+    // Modules
+    "moduleResolution": "Node16", // in
+    "module": "NodeNext", // out
+    // Type Checking Behaviour
+    "strict": true
+  }
 }
