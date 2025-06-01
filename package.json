@@ -1,7 +1,7 @@
 {
   "description": "",
   "devDependencies": {
-    "@evilmartians/lefthook": "^1.11.12",
+    "@evilmartians/lefthook": "^1.11.13",
     "@tstv/eslint-config": "^4.0.0",
     "@types/node": "^22.15.29",
     "@vitest/coverage-v8": "^3.1.2",
