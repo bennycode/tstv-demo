@@ -6,7 +6,7 @@
     "@types/node": "^24.9.2",
     "@vitest/coverage-v8": "^4.0.6",
     "cross-env": "^10.1.0",
-    "eslint": "^9.39.0",
+    "eslint": "^9.39.1",
     "prettier": "^3.6.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
