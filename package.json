@@ -4,7 +4,7 @@
     "@evilmartians/lefthook": "^2.0.2",
     "@tstv/eslint-config": "^4.0.0",
     "@types/node": "^24.9.2",
-    "@vitest/coverage-v8": "^4.0.6",
+    "@vitest/coverage-v8": "^4.0.16",
     "cross-env": "^10.1.0",
     "eslint": "^9.39.0",
     "prettier": "^3.7.3",
