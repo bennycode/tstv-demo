@@ -3,7 +3,7 @@
   "devDependencies": {
     "@evilmartians/lefthook": "^2.1.14",
     "@tstv/eslint-config": "^4.1.3",
-    "@types/node": "^26.6.3",
+    "@types/node": "^26.6.6",
     "@vitest/coverage-v8": "^5.0.5",
     "cross-env": "^10.1.0",
     "eslint": "^10.11.0",
